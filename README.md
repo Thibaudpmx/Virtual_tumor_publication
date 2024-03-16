@@ -30,7 +30,7 @@ A Zenodo deposit was created at the time of the manuscript submission to ensure 
 
 # Contact
 
-For any questions or issues with the code, feel free to contact me at Thibaud.Derippe@gmail.com. However, please note I do not work in the QSP field anymore, and therefore I do not intend to extend this work or improve the algorithms. 
+For any questions or issues with the code, feel free to contact me at Thibaud.Derippe@gmail.com. However, please note I do not work in the QSP field anymore, and therefore I do not intend to extend this work or improve the algorithms (unless needed for the manuscript itself). 
 
 Thanks !
 
