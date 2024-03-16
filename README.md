@@ -26,7 +26,7 @@ The three additional folders are:
 
 # Zenodo deposit
 
-A Zenodo deposit was created at the time of the manuscript submission to ensure sustained availability regardless of the future of this GitHhub repository: 
+A Zenodo deposit was created at the time of the manuscript submission to ensure sustained availability regardless of the future of this GitHhub repository: [![DOI](https://zenodo.org/badge/773143642.svg)](https://zenodo.org/doi/10.5281/zenodo.10826315)
 
 # Contact
 
